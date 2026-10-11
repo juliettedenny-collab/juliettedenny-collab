@@ -31,4 +31,6 @@ Zavmo is a commercial product, so its code lives in private repositories. The ac
 
 ## Find me
 
+**Juliette's Learning Tribe**, my weekly newsletter on how people learn and AI that adds to human skill. [Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7349023949415952386)
+
 [juliettedenny.com](https://juliettedenny.com) · [LinkedIn](https://www.linkedin.com/in/juliettedenny) · [zavmo.ai](https://zavmo.ai)
