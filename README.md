@@ -26,7 +26,7 @@ Zavmo is a commercial product, so its code lives in private repositories. The ac
 ## Ideas
 
 - ***Learning to be Human***, my book on how people learn, and why it has to be personal to work.
-- **Future Fluency**, ten fluencies for work shaped by AI. It sits behind new Level 3 and Level 5 diplomas.
+- **[Future Fluency](https://github.com/juliettedenny-collab/future-fluency)**, ten fluencies for work shaped by AI, published as an open framework. It sits behind new Level 3 and Level 5 diplomas.
 - **Neurogogy**, neuroscience and pedagogy together. I coined the term.
 
 ## Find me
